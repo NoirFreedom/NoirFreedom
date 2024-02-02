@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @NoirFreedom
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# *Hiiii!👋*
 
-<!---
-NoirFreedom/NoirFreedom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### *I'm currently immersed in developing Flutter apps!* 💻
+
+### *Looking for partners to collaborate on Flutter projects!* 🤝
+
+### *Seeking advice on challenges related to Flutter development!* 🤔
+
+### *Ask me anything about Flutter, mobile app development, or anything else!* 💬
+
+<br>
+
+## *A little more about me...*
+
+```dart
+class DH {
+  final List<String> pronouns = ["he", "him"];
+  final List<String> skills = ["Dart", "Flutter", "Python", "HTML", "CSS", "Javascript"];
+  final String currentFocus = "Mastering Flutter for Full-Stack App Development";
+}
+```
+### *I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)*
+
+
