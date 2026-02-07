@@ -26,17 +26,5 @@ I am a developer who thrives at the intersection of **AI and Automation**. I don
 
 <br/>
 
-## 📈 Github Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=radical" alt="DH's Github Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=radical" alt="Top Langs" height="150" />
-</p>
-
-<br/>
-
-## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
 ---
 *“Let’s build something that matters.”*
