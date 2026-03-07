@@ -1,4 +1,4 @@
-# Hi there, I'm DH! 🚀
+# Hi there, I'm Dean! 🚀
 
 ### AI Agent Engineer & Full-Stack Builder
 **"Architecting automated systems and seamless experiences—from Web to 3D."**
